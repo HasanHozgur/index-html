@@ -1,2 +1,2 @@
 # index-html
-Hasan Huseyin Ozgur - index.html / ilk html projesi
+Hasan Huseyin Ozgur - index.html / Kodluyoruz ilk html projesi
